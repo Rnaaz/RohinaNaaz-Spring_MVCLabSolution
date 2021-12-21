@@ -48,6 +48,8 @@
 				</c:forEach>
 			</tbody>
 		</table>
+		<a style="background-color: #ff3e6c;border:none;font-weight:500;" href="/CollegeFestEvent/student/add"	class="btn btn-primary mr-3">Add Student  </a>
+
 	</div>
 </body>
 </html>
